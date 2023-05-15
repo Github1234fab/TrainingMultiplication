@@ -1,0 +1,18 @@
+.number_random{
+  height: 20px;
+  width: 30px;
+  background-color: blue;
+  color: white;
+   display: inline-block;
+  text-align: center;
+  padding: 10px;
+}
+
+.question_one{
+  height: 500px;
+  width: 500px;
+  gap: 50px;
+}
+div{
+  margin-top: 20px;
+}
